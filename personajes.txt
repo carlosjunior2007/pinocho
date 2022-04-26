@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 **PERSONAJES**
 1.- Pinocho
 2.- Carpintero
+=======
+**PERSONAJES**
+1.- Pinocho
+>>>>>>> 8d106b6e49a42c205d371ccc2d73fa5c7e6aeb52
